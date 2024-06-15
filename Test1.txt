@@ -26,5 +26,3 @@ public class ArmstrongLogic {
 
 //good to have java
 
-
-//Java Selenium
